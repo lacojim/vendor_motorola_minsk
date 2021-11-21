@@ -1,6 +1,6 @@
 # vendor_motorola_minsk
 
-    manufacturer:
+    manufacturer: LG-Motorola
     platform: sm6150
     codename: minsk
     flavor: minsk_retail-user
@@ -12,5 +12,4 @@
     is_ab: true
     brand: motorola
     branch: minsk_retail-user-11-RPCS31.Q2-109-16-2-a61d8-release-keys
-    repo: motorola_minsk_dump
-
+    repo: vendor_motorola_minsk
